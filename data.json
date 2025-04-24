@@ -1,0 +1,16 @@
+[
+    {
+    "id": "1",
+    "CPU": "Intel Core i7-13700K, AMD Ryzen 9 7900X",
+    "RAM": "Corsair Vengeance DDR5 32GB, Kingston Fury Beast DDR4 16GB",
+    "Storage": "Samsung 990 Pro NVMe SSD 2TB, Seagate Barracuda HDD 4TB",
+    "GPU":"NVIDIA GeForce RTX 4090, AMD Radeon RX 7900 XTX"
+    },
+    {
+    "id": "2",
+    "CPU": "Intel Core i9-14900K, Intel Core i7-13700F",
+    "RAM": "Corsair Vengeance DDR5 32GB, Kingston Fury Beast DDR5 64GB",
+    "Storage": "Seagate Barracuda HDD 4TB, Western Digital Blue HDD 2TB",
+    "GPU":"GeForce RTX 4090, RTX 4070 Ti"
+    }
+]
